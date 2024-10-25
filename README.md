@@ -1,18 +1,16 @@
 <h2 align="center">Hello there, I'm Berin👋<br>I’m currently studying Computer Science at Faculty of Electrical Engineering, Sarajevo</h2>
 
-###
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bmasovic1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bmasovic1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
 ###
 
-<img align="right" height="260" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3oxYjFtY2J6czdjNjFmNXNlcWkzaGdzZDFlOGV0a3A4aTh4YjAyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yYSSBtDgbbRzq/giphy.gif" style="margin-bottom: 20px;" />
-
 <div align="center">
+  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -42,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <br><br>
+  <br>
 </div>
 
 ###
@@ -58,5 +56,11 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
 
+####
+
+<br>
+<div align="center">
+  <img height="260" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3oxYjFtY2J6czdjNjFmNXNlcWkzaGdzZDFlOGV0a3A4aTh4YjAyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yYSSBtDgbbRzq/giphy.gif"  />
+</div>
 
 ###
