@@ -13,14 +13,8 @@
 <img align="right" height="260" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3oxYjFtY2J6czdjNjFmNXNlcWkzaGdzZDFlOGV0a3A4aTh4YjAyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yYSSBtDgbbRzq/giphy.gif"  />
 <br><br>
 
-###
 
-###
-
-###
-
-
-<div align="center">
+<div align="center"  style="margin-top: 20px;">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
